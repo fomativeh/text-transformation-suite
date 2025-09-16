@@ -1,0 +1,6 @@
+Recent developments in quantum computing have raised concerns about current encryption standards.
+Researchers at MIT demonstrated a quantum algorithm that could break RSA-2048 encryption in just 8 hours using a theoretical quantum computer with 20 million qubits.
+While such powerful quantum computers don't yet exist, the research highlights the urgent need for quantum-resistant cryptography.
+Governments and major tech companies are now investing heavily in post-quantum cryptography standards, which are expected to be finalized by 2024.
+However, the transition to these new algorithms may take decades due to compatibility requirements with existing systems and the need for extensive testing.
+This timeline creates significant urgency for organizations to begin planning their cryptographic transition strategies, particularly for data that requires long-term confidentiality.

@@ -1,0 +1,16 @@
+Translate these technical cybersecurity terms into plain language that a non-technical audience would understand:
+
+Example 1:
+Technical: "Zero-day exploit"
+Plain language: "A security vulnerability that hackers discover before the software developers do"
+
+Example 2:
+Technical: "Phishing attack"
+Plain language: "A scam where criminals pretend to be trustworthy sources to trick people into sharing sensitive information"
+
+Example 3:
+Technical: "Multi-factor authentication"
+Plain language: "An extra security step that requires more than just a password to access an account"
+
+Now translate these terms:
+[TECHNICAL TERMS TEXT]

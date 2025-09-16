@@ -1,0 +1,2 @@
+Advanced persistent threats leverage sophisticated zero-day exploits and polymorphic malware to maintain persistent footholds in enterprise networks.
+These threats typically employ lateral movement techniques and credential dumping to escalate privileges and exfiltrate sensitive data while evading traditional signature-based detection mechanisms.

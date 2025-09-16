@@ -1,0 +1,5 @@
+1. Ransomware
+2. SQL injection
+3. DDoS attack
+4. Encryption
+5. Firewall

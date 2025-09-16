@@ -1,0 +1,11 @@
+Variation 1 (Concise):
+Please provide a concise summary of the following article in 2-3 sentences, focusing on the key findings:
+[ARTICLE TEXT]
+
+Variation 2 (Detailed):
+Provide a detailed summary of the following article in 5-7 sentences, covering the main points and supporting evidence:
+[ARTICLE TEXT]
+
+Variation 3 (Analytical):
+Provide an analytical summary of this article that highlights both the strengths and limitations of the argument:
+[ARTICLE TEXT]
